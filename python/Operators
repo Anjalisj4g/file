@@ -1,0 +1,75 @@
+# a = 10
+# b = 3
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a//b)
+# print(a**b)
+# print(a % b)
+# print(a == b)
+# print(a > b)
+# # print(a < b)
+# # print(a >= b)
+# # print(a <= b)
+# # print( a != b)
+# # print(a is b)
+
+
+# a = -10
+# b = 3
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a // b)
+# print(a % b)
+# print(a == b)
+# print(a > b)
+# print(a < b)
+# print(a >= b)
+# print(a <= b)
+# print(a is b)
+# print(a ** b)
+
+# print(0.1 + 0.2)
+
+age = 25
+salary = 10000
+
+# print(age > 18 and salary > 15000)
+# print(age < 5 and salary > 5000)
+# print(age > 10 and salary == 10000)
+
+# print(age > 18 or salary < 5000)
+# print(age > 20 or salary >8000)
+# print(age == 20 or salary <7000)
+
+# x = True
+# print( not x)
+
+# y = False
+# print(not y)
+
+# age = 25
+# result = age > 18 and age < 60
+# print(result)
+
+# print(10 and 20)
+# print(10 or 20)
+
+# print(True or False)
+# print(True and False)
+# print(not True)
+
+# a = 10
+# b = 20
+# print(a > 5 and b > 15)
+# print(a > 15 and b > 15)
+# print(a > 15 or b > 15)
+# print(not(a > 15))
+
+# marks = 40
+# if marks > 50:
+#     print("Pass")
+

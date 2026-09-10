@@ -1,0 +1,87 @@
+Importance of Data Science
+Innathe kalathu "Data is the new oil" ennanu parayunnathu. Data ellayidathum undu—nammal phone-il nokkunna karyangal, online aayi vangunna sadhanangal, swiping, clicking okke data aanu. Oru company-kku avarude business valarthan, customers-ne manasilakkan, future predict cheyyan data sahayikkunnu.
+Example: Amazon namukku products recommend cheyyunnathu nammude pazhaya search data analyze cheythittanu. Ithillengil companies-nu market-il pidichu nilkkan pattilla.
+
+Data Science vs Data Analytics vs AI vs Machine Learning
+Ithu students-nu eppozhum confusion varunna oru area aanu. Ithu thammilulla vyathyasam simple aayi parayam:
+
+Artificial Intelligence (AI)
+Machine-ukale manushyane pole chinthikkanum, theerumanangal edukkanum, pravarthikkanum praapthamakkunna oru broad field of technology aanu AI.
+
+Machine Learning (ML)
+AI-yude oru sub-field aanu ML. Nammal explicitly code cheyyathe thanne, kodukkunna data-yil ninnum swayam padikkan (learn cheyyan) machine-ukale sahayikkunna algorithms aanu ithil upayogikkunnathu.
+
+Data Science
+Maths, statistics, computer programming, ML ennivayude oru combination aanu Data Science. Valiya alavilulla complex data-yil ninnu hidden patterns kandupidichu, future predict cheyyanum valiya business problems solve cheyyanum ithu upayogikkunnu.
+
+Data Analysis
+Nilavilulla data eduthu, clean cheythu, athil ninnu useful aayittulla insights-um reports-um kandupidikkunna process aanu Data Analysis. Oru business-il past-il enthu nadannu, enthu kondu nadannu ennu manasilakkan ithu sahayikkunnu.
+ 
+(Eg: Kazhinja masam etra sales nadannu ennu nokkunathu Analytics; adutha masam etra sales nadakkum ennu predict cheyyunnathu Data Science).
+
+Roles in Data Science
+Data Science padichal kittavunna main job roles:
+
+Data Scientist: ML models build cheyyunnu, future predict cheyyunnu, complex business problems solve cheyyunnu.
+
+Data Analyst: Data clean cheyyunnu, reports undakkunnu, dashboards create cheyyunnu. Avar past and present data-yil aanu focus cheyyunnathu.
+
+Data Engineer: Data collect cheyyanum store cheyyanum ulla pipelines (infrastructure) undakkunnu. Ivar aadyam setup cheythal mathrame Data Scientist-nu work cheyyan pattu.
+
+Machine Learning Engineer: Data Scientist undakkiya models deploy cheyyunnu (production-il konduvarunnu).
+
+Applications of Data Science
+Eathokke fields-il aanu ithu use cheyyunnathu:
+
+Healthcare: Rogangal nerathe kandupidikkan (Disease prediction from X-rays or reports).
+
+E-commerce: Product recommendations (Amazon, Flipkart).
+
+Entertainment: Netflix-il 'What to watch next' recommend cheyyan.
+
+Finance: Fraud detection (Oru asadharanamaya credit card transaction vannal udane block cheyyunnathu).
+
+Transport: Uber-il cab price estimate cheyyanum, Google Maps-il traffic illatha route kanikkanum.
+
+Data Science Tools and Technologies
+Ithil work cheyyan ariyenda main tools:
+
+Programming: Python, R.
+
+Databases: SQL, MongoDB.
+
+Data Visualization: Tableau, PowerBI (Data-ye charts and graphs aakkan).
+
+Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow.
+
+Big Data: Hadoop, Spark (Valiya alavilulla data handle cheyyan).
+
+Ethics in Data Science
+Data upayogikkumbozhum chila rules and morals undu:
+
+Privacy: Aalkarude personal details (health records, bank details) leak aavan paadilla.
+
+Bias: Oru ML model oru prathyeka gender-nodu allengil race-nodu pakshapatham (bias) kanikkaruthu. (Eg: Oru hiring AI model aanungalude resume mathram select cheyyunnathu unethical aanu).
+
+Transparency: Ee data engane use cheyyunnu ennu customers-nodu hyatharthyamaayi parayanam.
+
+Future of Data Science
+Data-yude alavu dhivasam prathi koodikondirikkukayanu. Athukondu thanne Data Science-nte future valare bright aanu. AI-yum Data Science-um koodi kooduthal integrate cheyyappedum. Automation koodum, pakshe humans-nte logical thinking eppozhum aavashyamayi varum.
+
+Advantages and Limitations of Data Science
+
+Advantages:
+
+Better decision making (Guess work illathe, data vechu decision edukkaam).
+
+Business profit koodum, cost kurayum.
+
+Customer experience valare personalized aakkam.
+
+Limitations:
+
+Data privacy oru valiya issue aanu.
+
+Tools-num cloud infrastructure-num cost kooduthal aanu.
+
+"Garbage In, Garbage Out" - Quality illatha data (bad data) koduthal thettaya results kittum.

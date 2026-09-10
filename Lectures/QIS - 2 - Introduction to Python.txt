@@ -1,0 +1,116 @@
+Introduction to Python
+
+  
+DOCX
+
+Aadyam thanne programming enthanu ennu kuttikalkku manasilakki kodukkuka. Oru computer-nodu namukkenthengilum cheyyan parayanamengil, athinu manasilakunna oru bhashayil (language) instructions kodukkanam. Python angane oru language aanu.
+
+Python oru "High-Level" language aanu. Athayathu, computer-nu manasilavunna 0 and 1 (machine code) nammal padikkenda. Nammal sadharana samsarikunna English vakkukal (print, if, else) upayogichu code ezhutham.
+
+Oru cheriya kuttiyodu "thazhe veenirikkunna pen edukkuka" ennu parayunna pole valare simple aanu Python-il instructions kodukkan.
+
+Language Processors
+
+  
+DOCX
+
+Ivide oru nalla example parayam. Ningal oru Chinese aalodu samsarikkan sramikkukayanu. Ningalkku Chinese ariyilla, aa aalkku Malayalam/English ariyilla. Appol naduvil oru translator venam. Computer-nte karyathil ee translator-ne aanu "Language Processor" ennu vilikkunnathu. Nammal ezhuthiya Python code-ne computer-nu manasilavunna 0 and 1 aakki mattunnu. Randu tharam processors undu:
+
+Compiler: Oru pusthakam muzhuvan vayichu theerthu onnichu translate cheyyunnu. (Eg: C, C++). Oru cheriya thettundengil polum muzhuvan vayichathinu sheshame thettundennu parayullu.
+
+Interpreter: Oro vari aayi (line-by-line) vayichu translate cheyyunnu. Python work cheyyunnathu ithu vechanu. Oru line-il thettundengil avide vechu execution nilkkum. Kuttikalkku thettu (error) kandupidikkan ithu valare eluppamanu.
+
+Phases of Interpreter
+
+  
+DOCX
+
+Ee translator (interpreter) enganeyanu work cheyyunnathu ennu 4 steps aayi parayam:
+
+Lexical Analysis: Nammal ezhuthiya valiya code-ne cheriya cheriya kashnangalaayi (tokens) murikkunnu.
+
+Parsing: Grammar (Syntax) check cheyyunnu. Python-te rules thettichittundo ennu nokkunnu.
+
+Semantic Analysis: Ezhuthiya code-nu oru logic (artham) undoyennu check cheyyunnu. (Eg: "Apple ate the boy" ennu parayumbol grammar correct aanelum logic thettanallo. Athu pole).
+
+Execution: Ellam correct aanengil, code run cheythu output tharunnu.
+
+History of Python
+
+  
+DOCX
+
+Python kandupidichathu Guido van Rossum enna aalaanu (1991-il). Kuttikalkku oru fun fact paranju kodukkam: "Python" enna peru vannaathu pambinte peril ninnalla. 1970-kalil BBC-yil vannirunna "Monty Python's Flying Circus" enna oru comedy show-yude valiya fan aayirunnu pulikkaran. Aa show-yil ninnan ee peru ittathu.
+
+Advantages and Dis-advantages of Python
+
+  
+DOCX
+
+Advantages:
+
+Valare pettennu padikkam.
+
+Valiya community undu (Oru doubt vannal sahayikkan lakshakkanakkinu aalkar online-il undu).
+
+Pre-built tools (libraries) orupadundu. Puthiyathayi onnum undakkenda, ready-made aayi ellam kittum.
+
+Dis-advantages:
+
+Line-by-line aayi run cheyyunnathu kondu speed kuravanu.
+
+Mobile games allengil Android apps undakkan Python athra nallathalla.
+
+Tokens
+
+  
+DOCX
+
+Oru language-le etavum cheriya unit aanu token. English-il alphabets and words ulla pole Python-il 5 tokens undu:
+
+Keywords: Python-te swantham reserved words. (Traffic light-le Red, Green pole, athinu fix cheytha oru artham undu).
+
+Identifiers: Nammal variable-num function-num okke idunna perukal.
+
+Literals: Maattamillatha fixed values (Eg: Numbers, Text).
+
+Operators: Calculations-nu upayogikkunna symbols (+, -, *, /).
+
+Punctuators: Code-ne separate cheyyan use cheyyunna symbols (brackets, comma).
+
+Popular IDEs for Python
+
+  
+DOCX
+
+IDE (Integrated Development Environment) ennal code ezhuthanum, run cheyyanum ulla oru smart notebook aanu. Sadharana notepad-il ezhuthunna pole alla, thettu vannal IDE chuvanna color-il kanichu tharum.
+
+VS Code, PyCharm, Jupyter Notebook (Data Science-nu etavum nallathu) ennivayanu popular IDEs.
+
+IDE Enthanu? (Oru Cheriya Udaharanam)
+Kuttikalodu parayuka: "Nammal oru normal text file-il (Notepad) code ezhuthunnathu, oru empty room-il poyi food undakkan sramikkunna pole aanu. Pakshe IDE (Integrated Development Environment) ennal ellam set aakki vechittulla oru smart kitchen aanu. Avide stove, pathrangal, ingredients ellam ready aayi nilkkunnu. Code thettu vannal chuvanna color-il kanichu tharanum, pettennu run cheyyanum IDE nammude work valare eluppamakkum."
+
+Step 1: Python Install Cheyyunna Vidham
+Nammude system-il aadyam Python engine venam.
+
+Download: Browser-il poyi python.org enna website open cheyyan parayuka. Athil 'Downloads' click cheythu latest version edukkuka.
+
+The Golden Rule: Install cheyyumbol varunna first screen-il thazhe aayi "Add Python to PATH" ennoru cheriya tick box kanam. Ithu tick cheyyan aarum marakkaruthu ennu valare strictly parayanam. (Ithu cheythillel pinne code run aavilla, beginners eppozhum marakkunna karyamanithu).
+
+Install Now click cheythu finish cheyyuka.
+
+Step 2: IDE Install Cheyyuka (Anaconda / Jupyter Notebook)
+Data Science syllabus aayathu kondu Jupyter Notebook aanu ethavum nallathu.
+
+Anaconda: Google-il poyi 'Anaconda Navigator download' ennu search cheyyan parayuka. Ithu valiya oru software bag aanu. Ithil Data Science-nu aavashyamulla ellam in-built aayi undu.
+
+Install cheythu kazhinju Anaconda Navigator open cheyyumpol athil Jupyter Notebook kanam. Athinte thazhe ulla 'Launch' button click cheythal browser-il Jupyter open aavum.
+
+Step 3: First Python Code Run Cheyyippikkuka
+Jupyter-il puthiya oru file (New -> Python 3) edukkan parayuka. Inni kuttikalodu avarude jeevithathile aadyathe code ezhuthan parayam.
+
+Box-il type cheyyuka: print("Hello World")
+
+Ithu type cheythitt Shift + Enter onnichu amarthan parayuka.
+
+Thazhe output aayi Hello World ennu varunnathu kanumbozhekum beginners-nu valiya oru confidence kittum. "print" enna token code-ne display cheyyan aanu use cheyyunnathu ennu ivide vechu simple aayi paranju kodukkam.
